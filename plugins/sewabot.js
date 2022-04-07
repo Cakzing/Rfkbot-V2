@@ -11,12 +11,12 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa (ISAT): 085730903853 (+5.000)
-Gopay: 085730903853
+Pulsa (ISAT): 085875824909 (+5.000)
+Gopay: 085875824909
 `.trim()
     const button = {
         buttonText: 'List Harga',
-        description: kamisato,
+        description: Kry,
         sections:  [{title: "Silahkan di pilih", rows: [
         {title: '2 Bulan', description: "Rp30.000\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
         {title: '1 Bulan', description: "Rp20.000\nSewa bot selama 1 bulan.", rowId:".masuk"},
