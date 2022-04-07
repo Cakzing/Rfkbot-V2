@@ -14,16 +14,16 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/KTmdiwr8uP37feLpqwU2zy', ''] // ganti jadi group lu
-global.owner = ['6288289338073','6288289338073'] // Put your number here //owner eval
-global.kontak = ['6288289338073','6288289338073'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/Grck8x7daK645xvanrMaX2', ''] // ganti jadi group lu
+global.owner = ['6287729323961'] // Put your number here //owner eval
+global.kontak = ['6287729323961'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6288289338073','6285811073032','6285811055800'] // Premium user has unlimited limit
+global.prems = ['6287729323961'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com', 
-  xteam: 'https://api.xteam.xyz',
-  zahir: 'https://zahirr-web.herokuapp.com',
+  nrtm: 'https://alocksgeminks.herokuapp.com', 
+  xteam: 'https://google.com',
+  zahir: 'https://alocksgeminks.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',
   dhnjing: 'https://dhnjing.xyz',
   zeks: 'https://api.zeks.me',
@@ -44,23 +44,23 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = '_.rilzz'
+namagithub = 'Gak Ada'
 kasihcaption = `Nih kak`
-namakontak1 = 'AxellXzy 1'
-namakontak2 = 'AxellXzy 2'
+namakontak1 = 'Kry 1'
+namakontak2 = 'Kry 2'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AxellXd' // ganti aja
-global.author = 'Axell' // ganti aja
+global.packname = 'By Kry' // ganti aja
+global.author = 'Kry' // ganti aja
 
 //yyy
-bc = 'AxellXyz' //AlyaaXy Broadcast
-footer = '\n©AxellXyz'
-namabot = 'AxeBot'
-namalu = 'AxellXyz'
+bc = 'Kry' //AlyaaXy Broadcast
+footer = '\n© KryBot-Md'
+namabot = 'KryBot'
+namalu = 'Fachril'
 
 
 // 
